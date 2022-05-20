@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shinzou27
 - 👀 I’m interested in ... learn how to optmize my life through codes :)
 - 🌱 I’m currently learning ... JavaScript, HMTL n CSS
-- 📫 How to reach me ... felipecassianobarbosa@hotamil.com | Shinzou#9456 (Discord) | @shinzou27 (Twitter)
+- 📫 How to reach me ... felipecassianobarbosa@hotmail.com | Shinzou#9456 (Discord) | @shinzou27 (Twitter)
 
 <!---
 Shinzou27/Shinzou27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
