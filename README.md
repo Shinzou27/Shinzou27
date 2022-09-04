@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shinzou27
-- 👀 I’m interested in ... learn how to optmize my life through codes :)
+- 👀 I’m interested in ... learn how to optimize my life through codes :)
 - 🌱 I’m currently learning ... JavaScript, HMTL n CSS
 - 📫 How to reach me ... felipecassianobarbosa@hotmail.com | Shinzou#9456 (Discord) | @shinzou27 (Twitter)
 
